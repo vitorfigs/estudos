@@ -1,7 +1,5 @@
-# html-css
-Curso de HTML e CSS do CursoEmVídeo
+# Estudos
+---
+Exercícios e projetos com intuito de aplicação da teoria para aprendizado
 
-
-
-
-<a href="https://vitorfigs.github.io/html-css/Desafios/des010-site/index.html" target="_blank">Executar o site Desafio do módulo 2</a>
+![alberteinstein](https://github.com/user-attachments/assets/a724ea60-4a3d-4189-ad17-8563d4d0d335)
